@@ -21,9 +21,10 @@
 ## 🛠 Installation Guide
 Since Resigo is an **unpacked extension**, follow these steps to install:
 
-1. **Enable Developer Mode:** Go to `chrome://extensions` and toggle **Developer mode**.
-2. **Load Extension:** Click **Load unpacked** and select the `extension` folder.
-3. **Pin for Access:** Click the puzzle icon and **Pin** Resigo to your toolbar.
+1. **Download Extension:** Download then extract the zip.
+2. **Enable Developer Mode:** Go to `chrome://extensions` and toggle **Developer mode**.
+3. **Load Extension:** Click **Load unpacked** and select the `extension` folder.
+4. **Pin for Access:** Click the puzzle icon and **Pin** Resigo to your toolbar.
 
 ## 📖 Usage Guide
 
