@@ -1,0 +1,1 @@
+Resigo is a high-performance browser extension built for secure, on-device PDF and image conversion. By eliminating the need for server uploads, Resigo ensures your sensitive documents never leave your computer. Experience fast, reliable file processing with total peace of mind and uncompromising data privacy.
