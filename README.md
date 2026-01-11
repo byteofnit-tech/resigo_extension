@@ -1,7 +1,7 @@
 
 # 🚀 Resigo - Ultimate PDF & Image Tool
-**Resigo** is a powerful and privacy-focused browser extension designed to handle your conversion needs directly within your browser.
- **Privacy First:** All conversions run locally using WebAssembly.Your files **never leave your device**.
+**Resigo** is a powerful and privacy-focused browser extension designed to handle your conversion needs directly within your browser.                    
+**Privacy First:** All conversions run locally using WebAssembly.Your files **never leave your device**.
  
  <img width="1897" height="911" alt="Screenshot 2026-01-11 100129" src="https://github.com/user-attachments/assets/70a92d79-4efc-4afe-b079-6f87ea1d9d18" />
 
